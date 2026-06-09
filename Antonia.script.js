@@ -1,0 +1,1 @@
+window.alert("Você esta vendo a melhor biografia")
