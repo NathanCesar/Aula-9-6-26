@@ -1,7 +1,12 @@
-h1{
+#Nome{
     font-style: italic;
     color: rgb(206, 7, 46);
 }
+
+.Texto{
+    font-family: Arial;
+}
+
 img {
     width: 100;
 }
